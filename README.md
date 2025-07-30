@@ -181,6 +181,6 @@ Distributed under the MIT License.
 
 ## Contact
 
-Subhashini - [https://github.com/subha0319] - [subhashini0319@gmail.com]
+[Subhashini](subhashini0319@gmail.com)
 
 Project Link: [https://github.com/subha0319/SnakeGame.git](https://github.com/subha0319/SnakeGame.git)

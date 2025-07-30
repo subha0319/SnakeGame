@@ -4,22 +4,21 @@ A classic Snake Game implemented in Java using Swing, featuring core gameplay, s
 
 ## Table of Contents
 
-  - [About the Project](https://www.google.com/search?q=%23about-the-project)
-  - [Features](https://www.google.com/search?q=%23features)
-  - [Project Structure](https://www.google.com/search?q=%23project-structure)
-  - [Development Details](https://www.google.com/search?q=%23development-details)
-      - [Core Components](https://www.google.com/search?q=%23core-components)
-      - [Game Loop and Logic](https://www.google.com/search?q=%23game-loop-and-logic)
-      - [Event Handling](https://www.google.com/search?q=%23event-handling)
-      - [Game Mechanics](https://www.google.com/search?q=%23game-mechanics)
-  - [Getting Started](https://www.google.com/search?q=%23getting-started)
-      - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-      - [Installation](https://www.google.com/search?q=%23installation)
-  - [How to Play](https://www.google.com/search?q=%23how-to-play)
-  - [Contributing](https://www.google.com/search?q=%23contributing)
-  - [License](https://www.google.com/search?q=%23license)
-  - [Contact](https://www.google.com/search?q=%23contact)
-  - [Acknowledgements](https://www.google.com/search?q=%23acknowledgements)
+  - [About the Project](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#about-the-project)
+  - [Features](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#features)
+  - [Project Structure](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#project-structure)
+  - [Development Details](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#development-details)
+      - [Core Components](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#core-components)
+      - [Game Loop and Logic](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#game-loop-and-logic)
+      - [Event Handling](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#event-handling)
+      - [Game Mechanics](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#game-mechanics)
+  - [Getting Started](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#getting-started)
+      - [Prerequisites](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#prerequisites)
+      - [Installation](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#installation)
+  - [How to Play](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#how-to-play)
+  - [Contributing](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#contributing)
+  - [License](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#license)
+  - [Contact](https://github.com/subha0319/SnakeGame?tab=readme-ov-file#contact)
 
 ## About the Project
 

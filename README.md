@@ -110,7 +110,33 @@ Input is handled by an inner class `MyKeyAdapter`:
 
 ## Getting Started
 
-To get a local copy up and running, follow these simple steps.
+This game is distributed as a native installer for an easy setup.
+
+### Installation (Windows)
+
+1.  Go to the [Releases page](https://github.com/subha0319/SnakeGame/releases) of this repository.
+2.  Download the latest `.exe` installer.
+3.  Run the installer. This will install the game and create shortcuts in your Start Menu and on your Desktop.
+4.  Launch the game from your Start Menu or Desktop shortcut.
+
+## How to Play
+
+  * Use the **arrow keys** (Up, Down, Left, Right) to control the direction of the snake.
+  * Eat the red food items to grow the snake and increase your score.
+  * Collect blue power-ups for bonus points.
+  * Avoid colliding with the snake's own body or the game boundaries.
+  * The game ends upon collision, displaying your final score. 
+
+### Uninstallation (Windows)
+
+1.  Open your Start Menu and type "Add or remove programs".
+2.  In the settings panel that appears, find "SnakeGame" in your list of installed apps.
+3.  Click on it and select "Uninstall".
+
+---
+## For Developers (Building from Source)
+
+If you wish to build the project from the source code, follow these steps.
 
 ### Prerequisites
 
@@ -153,14 +179,6 @@ This project is built with Java. You will need:
       * Open NetBeans.
       * Go to `File > Open Project...` and select the `SnakeGame` folder.
       * Once the project is loaded, you can run it directly from the IDE (e.g., by clicking the "Run Project" button or `Shift + F6`).
-
-## How to Play
-
-  * Use the **arrow keys** (Up, Down, Left, Right) to control the direction of the snake.
-  * Eat the red food items to grow the snake and increase your score.
-  * Collect blue power-ups for bonus points.
-  * Avoid colliding with the snake's own body or the game boundaries.
-  * The game ends upon collision, displaying your final score.
 
 ## Contributing
 

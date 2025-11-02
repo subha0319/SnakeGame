@@ -196,9 +196,3 @@ Don't forget to give the project a star\! Thanks again\!
 ## License
 
 Distributed under the MIT License.
-
-## Contact
-
-[Subhashini](subhashini0319@gmail.com)
-
-Project Link: [https://github.com/subha0319/SnakeGame.git](https://github.com/subha0319/SnakeGame.git)
